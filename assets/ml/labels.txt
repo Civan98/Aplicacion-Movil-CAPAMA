@@ -1,0 +1,3 @@
+0 fuga_grave
+1 fuga_leve
+2 no_fuga
